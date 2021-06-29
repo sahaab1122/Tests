@@ -37,6 +37,7 @@ class Home extends React.Component {
                     <View style={{backgroundColor:"blue" ,width:"100%",height:60,alignItems:'center',paddingHorizontal:20,justifyContent:'space-between',flexDirection:'row'}}>
                     <View>
 
+
                     <FontAwesome name="sliders" size={24} color="white" />
                     </View>
                     <View style={{flexDirection:'row'}}>
